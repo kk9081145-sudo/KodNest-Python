@@ -1,2 +1,2 @@
 print("hello karthik")
-#write you code here
+print("how are you")
